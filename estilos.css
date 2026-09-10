@@ -6,6 +6,8 @@
     font-family: 'Montserrat', Tahoma, Geneva, Verdana, sans-serif;
     text-decoration: none;
 }
+body{
+    background-color: rgb(209, 209, 209);}
 :root{
     --principal: #076697; 
 }
